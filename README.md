@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Naveen Kumar Meena
 - 👀 I’m interested in DevOps,ResOps,Data Science and Artificial Intelligence.
 - 🌱 I’m currently learning ResOps/DeceOps.
-- 💞️ I’m looking to collaborate on .Bioinformatics.
+- 💞️ I’m looking to collaborate on Bioinformatics.
 - 📫 How to reach me ...
 
 <!---
